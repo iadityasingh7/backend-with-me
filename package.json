@@ -1,0 +1,19 @@
+{
+  "name": "backend_by_me",
+  "version": "1.0.0",
+  "description": "A backend with me ",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "Aditya Pratap Singh",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
